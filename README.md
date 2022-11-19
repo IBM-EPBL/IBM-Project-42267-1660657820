@@ -5,8 +5,7 @@
 
   </div>
  <br> 
- <h3>IBM-Project-42267-1660657820
-</h3>  
+ <h3>IBM-Project-9130-1658982501</h3>  
     
     
 > Your success will be determined by the manner in which you use the tools you have been given to work with.  
@@ -15,19 +14,16 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="40px"> Team Members: </h2> 
 <ul><i>
-  <li> Athul Krishna R </li>
-  <li> Colin Rolance D</li>
-  <li> Pranuv R </li>
-  <li> Shyam Vikram S </li>
+  <li> Shruthi.P.G </li>
+  <li> Vino.S </li>
+  <li> Sindhuja.V </li>
+  <li> Mayakannan.L </li>
   </i>
   </ul>
 <br>
-<h2>📃 Abstract:</h2><i>
+<h2>📃 Description:</h2><i>
 <ul>
-<li>Students are often worried about their chances of admission to University. </li>
-<li>The aim of this project is to help students in shortlisting universities with their profiles. </li>
-<li>The predicted output gives them a fair idea about their admission chances to a particular university. </li>
-<li>This analysis should also help students who are currently preparing or will be preparing to get a better idea. </li>
+     &nbsp;&nbsp;&nbsp;&nbsp;   University education is now a crucial pillar of social and economic life in the twenty-first century. It is significant not only in the educational process but also in assuring two vital things: a great job and financial stability. On the other hand, this might be extremely challenging because students are sometimes unaware of the admission standards. Students are sometimes apprehensive of their chances of admission to a university. The goal of this project is to assist students in shortlisting institutions based on their profiles comprising of the scores acquired by them in various competitive examinations. A predictor model is developed for the aforementioned purpose. The predicted outcome offers them an indication of their prospects of admission to a specific university. This evaluation helps students to have a better understanding.
   </i>
   </ul>
 <br>
