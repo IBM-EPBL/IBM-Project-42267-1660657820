@@ -50,5 +50,5 @@ IBM-Project-42267-1660657820
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> 
   Web-App </h2>
-Project Link: <a>http://jamboy16.pythonanywhere.com/</a>
+Project Link: [Click Here](http://jamboy16.pythonanywhere.com/)
 
