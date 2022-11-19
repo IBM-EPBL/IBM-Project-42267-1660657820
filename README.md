@@ -10,7 +10,7 @@ IBM-Project-42267-1660657820
 </h3>  
     
     
-> A TEAM WITH A PURPOSE 
+> PSG Institute of Technology and Applied Research
 <br>
   
 
