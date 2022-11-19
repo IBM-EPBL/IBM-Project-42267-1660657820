@@ -46,21 +46,9 @@ IBM-Project-42267-1660657820
   </div>
  <br>
   
+
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> 
   Tasks: </h2>
-  
-- [x] Ideation & Brainstorming <br>
-- [x] Project Phase I <br>
-- [x] Project Phase II <br>
-- [x] Assignment <br>  
-- [x] Project Planning <br>
-- [x] Sprint 1 <br>
-- [x] Sprint 2 <br>
-- [x] Sprint 3 <br>
-- [x] Sprint 4 <br>
-- [x] Model Building <br>
-- [x] Application Building <br>
-- [x] Train the model on IBM <br>
-- [x] Data Collection <br>
-- [x] Final Deliverables <br>
+  ![WhatsApp Image 2022-11-19 at 1 34 05 PM](https://user-images.githubusercontent.com/79473439/202862867-23a04a7f-3988-4de7-b58d-0ae595684e1f.jpeg)
+
