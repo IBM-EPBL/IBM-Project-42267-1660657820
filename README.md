@@ -49,6 +49,7 @@ IBM-Project-42267-1660657820
 
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> 
-  Tasks: </h2>
-  ![WhatsApp Image 2022-11-19 at 1 34 05 PM](https://user-images.githubusercontent.com/79473439/202862867-23a04a7f-3988-4de7-b58d-0ae595684e1f.jpeg)
+  Web-App </h2>
+
+
 
