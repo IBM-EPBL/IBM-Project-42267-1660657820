@@ -51,6 +51,6 @@ IBM-Project-42267-1660657820
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> 
   Web-App </h2>
 
-<img src="[https://drive.google.com/file/d/16ARRlkLQNvi0P7IbfDkFoNyamsoGWI5w/view?usp=share_link](https://drive.google.com/file/d/18lAAVyAoEak2Gt5gFUHMHc1ZRUprIvF9/view?usp=share_link)" width=400>
+<img src="https://drive.google.com/file/d/16ARRlkLQNvi0P7IbfDkFoNyamsoGWI5w/view?usp=share_link" width=400>
     <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=400>
 
