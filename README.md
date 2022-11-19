@@ -10,7 +10,7 @@ IBM-Project-42267-1660657820
 </h3>  
     
     
-> Your success will be determined by the manner in which you use the tools you have been given to work with.  
+> A TEAM WITH A PURPOSE 
 <br>
   
 
