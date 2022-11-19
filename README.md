@@ -10,7 +10,7 @@ IBM-Project-42267-1660657820
 </h3>  
     
     
-> PSG Institute of Technology and Applied Research
+> PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH
 <br>
   
 
