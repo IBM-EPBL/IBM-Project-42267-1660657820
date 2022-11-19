@@ -23,7 +23,7 @@
 <br>
 <h2>📃 Description:</h2><i>
 <ul>
-     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;   University education is now a crucial pillar of social and economic life in the twenty-first century. It is significant not only in the educational process but also in assuring two vital things: a great job and financial stability. On the other hand, this might be extremely challenging because students are sometimes unaware of the admission standards. Students are sometimes apprehensive of their chances of admission to a university. The goal of this project is to assist students in shortlisting institutions based on their profiles comprising of the scores acquired by them in various competitive examinations. A predictor model is developed for the aforementioned purpose. The predicted outcome offers them an indication of their prospects of admission to a specific university. This evaluation helps students to have a better understanding.
+     &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;   University education is now a crucial pillar of social and economic life in the twenty-first century. It is significant not only in the educational process but also in assuring two vital things: a great job and financial stability. On the other hand, this might be extremely challenging because students are sometimes unaware of the admission standards. Students are sometimes apprehensive of their chances of admission to a university. The goal of this project is to assist students in shortlisting institutions based on their profiles comprising of the scores acquired by them in various competitive examinations. A predictor model is developed for the aforementioned purpose. The predicted outcome offers them an indication of their prospects of admission to a specific university. This evaluation helps students to have a better understanding.
   </i>
   </ul>
 <br>
@@ -45,7 +45,8 @@
  <br>
   
   <!-- tasks -->
-  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
+  <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> 
+  Tasks: </h2>
   
 - [x] Ideation & Brainstorming <br>
 - [x] Project Phase I <br>
